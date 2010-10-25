@@ -1,5 +1,4 @@
-# Ruby on Rails Tutorial: first application
+# My README File
 
-This is the first application for
-[*Ruby on Rails Tutorial: Learn Rails by Example*](http://railstutorial.org/) 
-by [Michael Hartl](http://michaelhartl.com/).
+This is my first README file...  And here is a link to
+[*Facebook*](http://www.facebook.com/) just for fun.
